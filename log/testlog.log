@@ -1,0 +1,755 @@
+2020-07-08 15:27:42,888 - sampleFramework -INFO - URL Opened
+2020-07-08 15:27:45,316 - sampleFramework -INFO - Username Entered
+2020-07-08 15:27:45,458 - sampleFramework -INFO - Password Entered
+2020-07-08 15:27:48,093 - sampleFramework -INFO - Logged In
+2020-07-08 15:27:48,700 - sampleFramework -INFO - Logged Out
+2020-07-08 15:38:27,092 - com.sampleframework.testCases.TC_LoginTest_001 -INFO - URL Opened
+2020-07-08 15:38:29,912 - com.sampleframework.testCases.TC_LoginTest_001 -INFO - Username Entered
+2020-07-08 15:38:30,050 - com.sampleframework.testCases.TC_LoginTest_001 -INFO - Password Entered
+2020-07-08 15:38:33,316 - com.sampleframework.testCases.TC_LoginTest_001 -INFO - Logged In
+2020-07-08 15:38:34,073 - com.sampleframework.testCases.TC_LoginTest_001 -INFO - Logged Out
+2020-07-08 17:34:20,015 - com.sampleframework.testCases.TC_LoginTest_001 -INFO - URL Opened
+2020-07-08 17:37:36,620 - com.sampleframework.testCases.TC_LoginTest_001 -INFO - URL Opened
+2020-07-08 17:39:43,158 - com.sampleframework.testCases.TC_LoginTest_001 -INFO - URL Opened
+2020-07-08 17:44:27,625 - com.sampleframework.testCases.TC_LoginTest_001 -INFO - URL Opened
+2020-07-08 17:44:30,148 - com.sampleframework.testCases.TC_LoginTest_001 -INFO - Username Entered
+2020-07-08 17:44:30,282 - com.sampleframework.testCases.TC_LoginTest_001 -INFO - Password Entered
+2020-07-08 17:44:33,137 - com.sampleframework.testCases.TC_LoginTest_001 -INFO - Logged In
+2020-07-08 17:44:34,087 - com.sampleframework.testCases.TC_LoginTest_001 -INFO - Logged Out
+2020-07-08 17:55:16,563 - com.sampleframework.testCases.TC_LoginTest_001 -INFO - URL Opened
+2020-07-08 17:55:18,961 - com.sampleframework.testCases.TC_LoginTest_001 -INFO - Username Entered
+2020-07-08 17:55:19,100 - com.sampleframework.testCases.TC_LoginTest_001 -INFO - Password Entered
+2020-07-08 17:55:22,958 - com.sampleframework.testCases.TC_LoginTest_001 -INFO - Logged In
+2020-07-08 17:55:23,555 - com.sampleframework.testCases.TC_LoginTest_001 -INFO - Logged Out
+2020-07-08 17:56:20,496 - com.sampleframework.testCases.TC_LoginTest_001 -INFO - URL Opened
+2020-07-08 17:56:21,297 - com.sampleframework.testCases.TC_LoginTest_001 -INFO - Username Entered
+2020-07-08 17:56:21,370 - com.sampleframework.testCases.TC_LoginTest_001 -INFO - Password Entered
+2020-07-08 17:56:24,719 - com.sampleframework.testCases.TC_LoginTest_001 -INFO - Logged In
+2020-07-08 17:57:22,443 - com.sampleframework.testCases.TC_LoginTest_001 -INFO - URL Opened
+2020-07-08 17:57:22,662 - com.sampleframework.testCases.TC_LoginTest_001 -INFO - Username Entered
+2020-07-08 17:57:22,739 - com.sampleframework.testCases.TC_LoginTest_001 -INFO - Password Entered
+2020-07-08 17:57:26,318 - com.sampleframework.testCases.TC_LoginTest_001 -INFO - Logged In
+2020-07-08 17:57:32,070 - com.sampleframework.testCases.TC_LoginTest_001 -INFO - Logged Out
+2020-07-08 18:00:37,083 - com.sampleframework.testCases.TC_LoginTest_001 -INFO - URL Opened
+2020-07-08 18:00:39,491 - com.sampleframework.testCases.TC_LoginTest_001 -INFO - Username Entered
+2020-07-08 18:00:39,632 - com.sampleframework.testCases.TC_LoginTest_001 -INFO - Password Entered
+2020-07-08 18:00:42,075 - com.sampleframework.testCases.TC_LoginTest_001 -INFO - Logged In
+2020-07-08 18:00:47,677 - com.sampleframework.testCases.TC_LoginTest_001 -INFO - Logged Out
+2020-07-08 18:00:55,056 - com.sampleframework.testCases.TC_LoginTest_001 -INFO - URL Opened
+2020-07-08 18:00:55,247 - com.sampleframework.testCases.TC_LoginTest_001 -INFO - Username Entered
+2020-07-08 18:00:55,309 - com.sampleframework.testCases.TC_LoginTest_001 -INFO - Password Entered
+2020-07-08 18:01:02,605 - com.sampleframework.testCases.TC_LoginTest_001 -INFO - Logged In
+2020-07-08 18:01:08,230 - com.sampleframework.testCases.TC_LoginTest_001 -INFO - Logged Out
+2020-07-12 10:47:30,266 - com.sampleframework.testCases.TC_LoginTest_001 -INFO - URL Opened
+2020-07-12 10:47:32,874 - com.sampleframework.testCases.TC_LoginTest_001 -INFO - Username Entered
+2020-07-12 10:47:33,009 - com.sampleframework.testCases.TC_LoginTest_001 -INFO - Password Entered
+2020-07-12 10:47:44,476 - com.sampleframework.testCases.TC_LoginTest_001 -INFO - Logged In
+2020-07-12 10:53:26,745 - com.sampleframework.testCases.TC_LoginTest_001 -INFO - URL Opened
+2020-07-12 10:53:29,170 - com.sampleframework.testCases.TC_LoginTest_001 -INFO - Username Entered
+2020-07-12 10:53:29,318 - com.sampleframework.testCases.TC_LoginTest_001 -INFO - Password Entered
+2020-07-12 10:53:32,321 - com.sampleframework.testCases.TC_LoginTest_001 -INFO - Logged In
+2020-07-12 14:32:59,027 - com.sampleframework.testCases.TC_LoginTest_001 -INFO - URL Opened
+2020-07-12 14:33:01,488 - com.sampleframework.testCases.TC_LoginTest_001 -INFO - Username Entered
+2020-07-12 14:33:01,636 - com.sampleframework.testCases.TC_LoginTest_001 -INFO - Password Entered
+2020-07-12 14:33:04,141 - com.sampleframework.testCases.TC_LoginTest_001 -INFO - Logged In
+2020-07-12 14:42:10,078 - com.sampleframework.testCases.TC_LoginTest_001 -INFO - URL Opened
+2020-07-12 14:42:12,461 - com.sampleframework.testCases.TC_LoginTest_001 -INFO - Username Entered
+2020-07-12 14:42:12,604 - com.sampleframework.testCases.TC_LoginTest_001 -INFO - Password Entered
+2020-07-12 14:42:14,489 - com.sampleframework.testCases.TC_LoginTest_001 -INFO - Logged In
+2020-07-12 14:53:57,496 - com.sampleframework.testCases.TC_LoginTest_001 -INFO - URL Opened
+2020-07-12 14:53:59,870 - com.sampleframework.testCases.TC_LoginTest_001 -INFO - Username Entered
+2020-07-12 14:53:59,993 - com.sampleframework.testCases.TC_LoginTest_001 -INFO - Password Entered
+2020-07-12 14:54:03,424 - com.sampleframework.testCases.TC_LoginTest_001 -INFO - Logged In
+2020-07-12 15:03:38,581 - com.sampleframework.testCases.TC_LoginTest_001 -INFO - URL Opened
+2020-07-12 15:03:40,951 - com.sampleframework.testCases.TC_LoginTest_001 -INFO - Username Entered
+2020-07-12 15:03:41,074 - com.sampleframework.testCases.TC_LoginTest_001 -INFO - Password Entered
+2020-07-12 15:03:43,231 - com.sampleframework.testCases.TC_LoginTest_001 -INFO - Logged In
+2020-07-12 15:03:48,879 - com.sampleframework.testCases.TC_LoginTest_001 -INFO - Logged Out
+2020-07-12 15:03:53,415 - com.sampleframework.testCases.TC_NT_LoginTest_002 -INFO - URL Opened
+2020-07-12 15:03:55,747 - com.sampleframework.testCases.TC_NT_LoginTest_002 -INFO - Username Entered
+2020-07-12 15:03:55,888 - com.sampleframework.testCases.TC_NT_LoginTest_002 -INFO - Password Entered
+2020-07-12 15:03:58,369 - com.sampleframework.testCases.TC_NT_LoginTest_002 -INFO - Logged In
+2020-07-12 15:07:56,406 - com.sampleframework.testCases.TC_LoginTest_001 -INFO - URL Opened
+2020-07-12 15:07:58,798 - com.sampleframework.testCases.TC_LoginTest_001 -INFO - Username Entered
+2020-07-12 15:07:58,932 - com.sampleframework.testCases.TC_LoginTest_001 -INFO - Password Entered
+2020-07-12 15:08:01,252 - com.sampleframework.testCases.TC_LoginTest_001 -INFO - Logged In
+2020-07-12 15:08:06,817 - com.sampleframework.testCases.TC_LoginTest_001 -INFO - Logged Out
+2020-07-12 15:08:12,506 - com.sampleframework.testCases.TC_NT_LoginTest_002 -INFO - URL Opened
+2020-07-12 15:08:14,816 - com.sampleframework.testCases.TC_NT_LoginTest_002 -INFO - Username Entered
+2020-07-12 15:08:14,953 - com.sampleframework.testCases.TC_NT_LoginTest_002 -INFO - Password Entered
+2020-07-12 15:08:18,090 - com.sampleframework.testCases.TC_NT_LoginTest_002 -INFO - Logged In
+2020-07-12 15:11:28,347 - com.sampleframework.testCases.TC_LoginTest_001 -INFO - URL Opened
+2020-07-12 15:11:30,759 - com.sampleframework.testCases.TC_LoginTest_001 -INFO - Username Entered
+2020-07-12 15:11:30,910 - com.sampleframework.testCases.TC_LoginTest_001 -INFO - Password Entered
+2020-07-12 15:11:37,023 - com.sampleframework.testCases.TC_LoginTest_001 -INFO - Logged In
+2020-07-12 15:11:43,683 - com.sampleframework.testCases.TC_LoginTest_001 -INFO - Logged Out
+2020-07-12 15:11:48,162 - com.sampleframework.testCases.TC_NT_LoginTest_002 -INFO - URL Opened
+2020-07-12 15:11:50,483 - com.sampleframework.testCases.TC_NT_LoginTest_002 -INFO - Username Entered
+2020-07-12 15:11:50,609 - com.sampleframework.testCases.TC_NT_LoginTest_002 -INFO - Password Entered
+2020-07-12 15:11:53,066 - com.sampleframework.testCases.TC_NT_LoginTest_002 -INFO - Logged In
+2020-07-12 16:22:33,296 - com.sampleframework.testCases.TC_LoginTest_001 -INFO - URL Opened
+2020-07-12 16:22:35,670 - com.sampleframework.testCases.TC_LoginTest_001 -INFO - Username Entered
+2020-07-12 16:22:35,793 - com.sampleframework.testCases.TC_LoginTest_001 -INFO - Password Entered
+2020-07-12 16:22:39,133 - com.sampleframework.testCases.TC_LoginTest_001 -INFO - Logged In
+2020-07-12 16:22:44,851 - com.sampleframework.testCases.TC_LoginTest_001 -INFO - Logged Out
+2020-07-12 16:22:49,301 - com.sampleframework.testCases.TC_NT_LoginTest_002 -INFO - URL Opened
+2020-07-12 16:22:51,620 - com.sampleframework.testCases.TC_NT_LoginTest_002 -INFO - Username Entered
+2020-07-12 16:22:51,746 - com.sampleframework.testCases.TC_NT_LoginTest_002 -INFO - Password Entered
+2020-07-12 16:22:54,810 - com.sampleframework.testCases.TC_NT_LoginTest_002 -INFO - Logged In
+2020-07-12 16:25:57,409 - com.sampleframework.testCases.TC_LoginTestDDT_003 -INFO - URL Opened
+2020-07-12 16:25:59,798 - com.sampleframework.testCases.TC_LoginTestDDT_003 -INFO - Username Entered
+2020-07-12 16:25:59,943 - com.sampleframework.testCases.TC_LoginTestDDT_003 -INFO - Password Entered
+2020-07-12 16:26:02,470 - com.sampleframework.testCases.TC_LoginTestDDT_003 -INFO - Logged In
+2020-07-12 16:26:08,109 - com.sampleframework.testCases.TC_LoginTestDDT_003 -INFO - Logged Out
+2020-07-12 16:26:08,475 - com.sampleframework.testCases.TC_LoginTestDDT_003 -INFO - URL Opened
+2020-07-12 16:26:08,675 - com.sampleframework.testCases.TC_LoginTestDDT_003 -INFO - Username Entered
+2020-07-12 16:26:08,816 - com.sampleframework.testCases.TC_LoginTestDDT_003 -INFO - Password Entered
+2020-07-12 16:26:09,095 - com.sampleframework.testCases.TC_LoginTestDDT_003 -INFO - Logged In
+2020-07-12 16:26:14,872 - com.sampleframework.testCases.TC_LoginTestDDT_003 -INFO - URL Opened
+2020-07-12 16:26:15,043 - com.sampleframework.testCases.TC_LoginTestDDT_003 -INFO - Username Entered
+2020-07-12 16:26:15,156 - com.sampleframework.testCases.TC_LoginTestDDT_003 -INFO - Password Entered
+2020-07-12 16:26:15,398 - com.sampleframework.testCases.TC_LoginTestDDT_003 -INFO - Logged In
+2020-07-12 16:26:21,101 - com.sampleframework.testCases.TC_LoginTestDDT_003 -INFO - URL Opened
+2020-07-12 16:26:21,282 - com.sampleframework.testCases.TC_LoginTestDDT_003 -INFO - Username Entered
+2020-07-12 16:26:21,399 - com.sampleframework.testCases.TC_LoginTestDDT_003 -INFO - Password Entered
+2020-07-12 16:26:21,633 - com.sampleframework.testCases.TC_LoginTestDDT_003 -INFO - Logged In
+2020-07-12 16:34:17,720 - com.sampleframework.testCases.TC_LoginTestDDT_003 -INFO - URL Opened
+2020-07-12 16:34:20,095 - com.sampleframework.testCases.TC_LoginTestDDT_003 -INFO - Username Entered
+2020-07-12 16:34:20,225 - com.sampleframework.testCases.TC_LoginTestDDT_003 -INFO - Password Entered
+2020-07-12 16:34:22,818 - com.sampleframework.testCases.TC_LoginTestDDT_003 -INFO - Logged In
+2020-07-12 16:34:28,612 - com.sampleframework.testCases.TC_LoginTestDDT_003 -INFO - Logged Out
+2020-07-12 16:34:28,975 - com.sampleframework.testCases.TC_LoginTestDDT_003 -INFO - URL Opened
+2020-07-12 16:34:29,157 - com.sampleframework.testCases.TC_LoginTestDDT_003 -INFO - Username Entered
+2020-07-12 16:34:29,271 - com.sampleframework.testCases.TC_LoginTestDDT_003 -INFO - Password Entered
+2020-07-12 16:34:29,529 - com.sampleframework.testCases.TC_LoginTestDDT_003 -INFO - Logged In
+2020-07-12 16:34:35,233 - com.sampleframework.testCases.TC_LoginTestDDT_003 -INFO - URL Opened
+2020-07-12 16:34:35,412 - com.sampleframework.testCases.TC_LoginTestDDT_003 -INFO - Username Entered
+2020-07-12 16:34:35,535 - com.sampleframework.testCases.TC_LoginTestDDT_003 -INFO - Password Entered
+2020-07-12 16:34:35,773 - com.sampleframework.testCases.TC_LoginTestDDT_003 -INFO - Logged In
+2020-07-12 16:34:41,429 - com.sampleframework.testCases.TC_LoginTestDDT_003 -INFO - URL Opened
+2020-07-12 16:34:41,618 - com.sampleframework.testCases.TC_LoginTestDDT_003 -INFO - Username Entered
+2020-07-12 16:34:41,734 - com.sampleframework.testCases.TC_LoginTestDDT_003 -INFO - Password Entered
+2020-07-12 16:34:41,965 - com.sampleframework.testCases.TC_LoginTestDDT_003 -INFO - Logged In
+2020-07-13 15:51:20,796 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Email Entered
+2020-07-13 15:51:20,940 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Password Entered
+2020-07-13 15:51:21,066 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - FirstName Entered
+2020-07-13 15:51:21,162 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Lastname Entered
+2020-07-13 15:51:21,303 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Gender Selected
+2020-07-13 15:51:21,449 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - DOB entered
+2020-07-13 16:17:17,732 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Email Entered
+2020-07-13 16:17:17,856 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Password Entered
+2020-07-13 16:17:17,975 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - FirstName Entered
+2020-07-13 16:17:18,080 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Lastname Entered
+2020-07-13 16:17:18,172 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Gender Selected
+2020-07-13 16:17:18,304 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - DOB entered
+2020-07-13 16:33:39,877 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Email Entered
+2020-07-13 16:33:40,001 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Password Entered
+2020-07-13 16:33:40,115 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - FirstName Entered
+2020-07-13 16:33:40,229 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Lastname Entered
+2020-07-13 16:33:40,307 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Gender Selected
+2020-07-13 16:33:40,508 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - DOB entered
+2020-07-13 16:33:40,972 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Selected Customer Roles
+2020-07-13 16:33:41,220 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Selected Vendor details
+2020-07-13 16:33:41,467 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Comments entered
+2020-07-13 17:25:37,337 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Email Entered
+2020-07-13 17:25:37,466 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Password Entered
+2020-07-13 17:25:37,605 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - FirstName Entered
+2020-07-13 17:25:37,723 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Lastname Entered
+2020-07-13 17:25:37,822 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Gender Selected
+2020-07-13 17:25:37,976 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - DOB entered
+2020-07-13 17:25:38,510 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Selected Customer Roles
+2020-07-13 17:25:38,662 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Selected Vendor details
+2020-07-13 17:25:38,841 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Comments entered
+2020-07-13 17:25:39,587 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Customer Saved
+2020-07-13 17:28:13,775 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Email Entered
+2020-07-13 17:28:13,896 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Password Entered
+2020-07-13 17:28:14,024 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - FirstName Entered
+2020-07-13 17:28:14,125 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Lastname Entered
+2020-07-13 17:28:14,192 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Gender Selected
+2020-07-13 17:28:14,314 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - DOB entered
+2020-07-13 17:28:14,777 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Selected Customer Roles
+2020-07-13 17:28:14,897 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Selected Vendor details
+2020-07-13 17:28:15,057 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Comments entered
+2020-07-13 17:28:15,824 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Customer Saved
+2020-07-13 17:34:48,053 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Email Entered
+2020-07-13 17:34:48,180 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Password Entered
+2020-07-13 17:34:48,314 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - FirstName Entered
+2020-07-13 17:34:48,450 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Lastname Entered
+2020-07-13 17:34:48,555 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Gender Selected
+2020-07-13 17:34:48,701 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - DOB entered
+2020-07-13 17:34:49,258 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Selected Customer Roles
+2020-07-13 17:34:49,404 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Selected Vendor details
+2020-07-13 17:34:49,613 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Comments entered
+2020-07-13 17:34:50,345 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Customer Saved
+2020-07-13 17:36:11,210 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Email Entered
+2020-07-13 17:36:11,344 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Password Entered
+2020-07-13 17:36:11,491 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - FirstName Entered
+2020-07-13 17:36:11,595 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Lastname Entered
+2020-07-13 17:36:11,675 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Gender Selected
+2020-07-13 17:36:11,807 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - DOB entered
+2020-07-13 17:36:12,334 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Selected Customer Roles
+2020-07-13 17:36:12,470 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Selected Vendor details
+2020-07-13 17:36:12,715 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Comments entered
+2020-07-13 17:36:13,487 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Customer Saved
+2020-07-13 17:37:19,918 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Email Entered
+2020-07-13 17:37:20,044 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Password Entered
+2020-07-13 17:37:20,167 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - FirstName Entered
+2020-07-13 17:37:20,271 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Lastname Entered
+2020-07-13 17:37:20,341 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Gender Selected
+2020-07-13 17:37:20,457 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - DOB entered
+2020-07-13 17:37:23,831 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Selected Customer Roles
+2020-07-13 17:37:23,954 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Selected Vendor details
+2020-07-13 17:37:24,124 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Comments entered
+2020-07-13 17:37:25,060 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Customer Saved
+2020-07-14 10:24:05,241 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Email Entered
+2020-07-14 10:24:05,509 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Password Entered
+2020-07-14 10:24:05,629 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - FirstName Entered
+2020-07-14 10:24:05,753 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Lastname Entered
+2020-07-14 10:24:05,859 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Gender Selected
+2020-07-14 10:24:05,998 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - DOB entered
+2020-07-14 10:24:09,395 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Selected Customer Roles
+2020-07-14 10:24:10,219 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Selected Vendor details
+2020-07-14 10:24:10,390 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Comments entered
+2020-07-14 10:24:11,237 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Customer Saved
+2020-07-14 10:26:31,783 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Email Entered
+2020-07-14 10:26:31,900 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Password Entered
+2020-07-14 10:26:32,026 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - FirstName Entered
+2020-07-14 10:26:32,123 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Lastname Entered
+2020-07-14 10:26:32,193 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Gender Selected
+2020-07-14 10:26:32,315 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - DOB entered
+2020-07-14 10:26:35,632 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Selected Customer Roles
+2020-07-14 10:26:35,752 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Selected Vendor details
+2020-07-14 10:26:35,941 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Comments entered
+2020-07-14 10:26:36,645 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Customer Saved
+2020-07-14 10:29:01,946 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Email Entered
+2020-07-14 10:29:02,063 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Password Entered
+2020-07-14 10:29:02,187 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - FirstName Entered
+2020-07-14 10:29:02,288 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Lastname Entered
+2020-07-14 10:29:02,361 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Gender Selected
+2020-07-14 10:29:02,475 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - DOB entered
+2020-07-14 10:29:05,783 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Selected Customer Roles
+2020-07-14 10:29:05,907 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Selected Vendor details
+2020-07-14 10:29:06,078 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Comments entered
+2020-07-14 10:29:07,285 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Customer Saved
+2020-07-14 10:31:36,117 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Email Entered
+2020-07-14 10:31:36,263 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Password Entered
+2020-07-14 10:31:36,439 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - FirstName Entered
+2020-07-14 10:31:36,560 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Lastname Entered
+2020-07-14 10:31:36,651 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Gender Selected
+2020-07-14 10:31:36,794 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - DOB entered
+2020-07-14 10:31:40,242 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Selected Customer Roles
+2020-07-14 10:31:40,386 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Selected Vendor details
+2020-07-14 10:31:40,574 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Comments entered
+2020-07-14 10:31:42,116 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Customer Saved
+2020-07-14 10:31:42,259 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Failed to register a Customer
+2020-07-14 10:37:23,582 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Email Entered
+2020-07-14 10:37:23,721 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Password Entered
+2020-07-14 10:37:23,848 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - FirstName Entered
+2020-07-14 10:37:23,941 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Lastname Entered
+2020-07-14 10:37:24,025 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Gender Selected
+2020-07-14 10:37:24,142 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - DOB entered
+2020-07-14 10:37:27,617 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Selected Customer Roles
+2020-07-14 10:37:27,763 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Selected Vendor details
+2020-07-14 10:37:27,928 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Comments entered
+2020-07-14 10:37:28,884 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Customer Saved
+2020-07-14 10:37:28,996 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Failed to register a Customer
+2020-07-14 10:41:03,516 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Email Entered
+2020-07-14 10:41:03,633 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Password Entered
+2020-07-14 10:41:03,765 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - FirstName Entered
+2020-07-14 10:41:03,865 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Lastname Entered
+2020-07-14 10:41:03,958 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Gender Selected
+2020-07-14 10:41:04,091 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - DOB entered
+2020-07-14 10:41:06,414 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Selected Customer Roles
+2020-07-14 10:41:06,566 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Selected Vendor details
+2020-07-14 10:41:06,796 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Comments entered
+2020-07-14 10:41:07,512 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Customer Saved
+2020-07-14 10:43:02,886 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Email Entered
+2020-07-14 10:43:03,021 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Password Entered
+2020-07-14 10:43:03,164 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - FirstName Entered
+2020-07-14 10:43:03,271 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Lastname Entered
+2020-07-14 10:43:03,352 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Gender Selected
+2020-07-14 10:43:03,493 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - DOB entered
+2020-07-14 10:43:05,997 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Selected Customer Roles
+2020-07-14 10:43:06,127 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Selected Vendor details
+2020-07-14 10:43:06,350 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Comments entered
+2020-07-14 10:43:07,175 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Customer Saved
+2020-07-14 10:43:07,209 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Failed to register a Customer
+2020-07-14 10:45:50,968 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Email Entered
+2020-07-14 10:45:51,107 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Password Entered
+2020-07-14 10:45:51,249 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - FirstName Entered
+2020-07-14 10:45:51,355 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Lastname Entered
+2020-07-14 10:45:51,441 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Gender Selected
+2020-07-14 10:45:51,568 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - DOB entered
+2020-07-14 10:45:54,087 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Selected Customer Roles
+2020-07-14 10:45:54,221 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Selected Vendor details
+2020-07-14 10:45:54,441 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Comments entered
+2020-07-14 10:45:55,101 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Customer Saved
+2020-07-14 11:06:37,685 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Email Entered
+2020-07-14 11:06:37,808 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Password Entered
+2020-07-14 11:06:37,933 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - FirstName Entered
+2020-07-14 11:06:38,032 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Lastname Entered
+2020-07-14 11:06:38,110 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Gender Selected
+2020-07-14 11:06:38,222 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - DOB entered
+2020-07-14 11:06:40,706 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Selected Customer Roles
+2020-07-14 11:06:40,855 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Selected Vendor details
+2020-07-14 11:06:41,106 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Comments entered
+2020-07-14 11:06:42,005 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Customer Saved
+2020-07-14 11:06:42,112 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Failed to register a Customer
+2020-07-14 11:07:07,262 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Email Entered
+2020-07-14 11:07:07,377 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Password Entered
+2020-07-14 11:07:07,504 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - FirstName Entered
+2020-07-14 11:07:07,605 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Lastname Entered
+2020-07-14 11:07:07,685 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Gender Selected
+2020-07-14 11:07:07,816 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - DOB entered
+2020-07-14 11:07:10,322 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Selected Customer Roles
+2020-07-14 11:07:10,477 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Selected Vendor details
+2020-07-14 11:07:10,727 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Comments entered
+2020-07-14 11:07:11,628 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Customer Saved
+2020-07-14 11:07:11,670 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Failed to register a Customer
+2020-07-14 11:14:41,967 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Email Entered
+2020-07-14 11:14:42,041 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Password Entered
+2020-07-14 11:14:42,112 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - FirstName Entered
+2020-07-14 11:14:42,252 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Lastname Entered
+2020-07-14 11:14:42,351 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Gender Selected
+2020-07-14 11:14:42,484 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - DOB entered
+2020-07-14 11:14:44,942 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Selected Customer Roles
+2020-07-14 11:14:45,072 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Selected Vendor details
+2020-07-14 11:14:45,285 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Comments entered
+2020-07-14 11:14:46,039 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Customer Saved
+2020-07-14 11:16:01,851 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Email Entered
+2020-07-14 11:16:02,286 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Password Entered
+2020-07-14 11:16:02,419 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - FirstName Entered
+2020-07-14 11:16:02,528 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Lastname Entered
+2020-07-14 11:16:02,607 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Gender Selected
+2020-07-14 11:16:02,750 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - DOB entered
+2020-07-14 11:16:05,257 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Selected Customer Roles
+2020-07-14 11:16:05,391 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Selected Vendor details
+2020-07-14 11:16:05,607 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Comments entered
+2020-07-14 11:16:06,710 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Customer Saved
+2020-07-14 11:16:07,057 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Failed to register a Customer
+2020-07-14 11:16:59,088 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Email Entered
+2020-07-14 11:16:59,219 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Password Entered
+2020-07-14 11:16:59,367 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - FirstName Entered
+2020-07-14 11:16:59,487 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Lastname Entered
+2020-07-14 11:16:59,584 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Gender Selected
+2020-07-14 11:16:59,719 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - DOB entered
+2020-07-14 11:17:02,270 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Selected Customer Roles
+2020-07-14 11:17:02,413 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Selected Vendor details
+2020-07-14 11:17:02,659 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Comments entered
+2020-07-14 11:17:03,586 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Customer Saved
+2020-07-14 11:17:03,624 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Failed to register a Customer
+2020-07-14 14:38:32,098 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Email Entered
+2020-07-14 14:38:32,450 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Password Entered
+2020-07-14 14:38:32,573 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - FirstName Entered
+2020-07-14 14:38:32,709 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Lastname Entered
+2020-07-14 14:38:32,831 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Gender Selected
+2020-07-14 14:38:33,065 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - DOB entered
+2020-07-14 14:38:35,666 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Selected Customer Roles
+2020-07-14 14:38:36,368 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Selected Vendor details
+2020-07-14 14:38:36,618 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Comments entered
+2020-07-14 14:38:37,871 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Customer Saved
+2020-07-14 14:38:37,986 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Failed to register a Customer
+2020-07-14 15:04:53,675 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Email Entered
+2020-07-14 15:04:53,816 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Password Entered
+2020-07-14 15:04:53,944 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - FirstName Entered
+2020-07-14 15:04:54,046 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Lastname Entered
+2020-07-14 15:04:54,116 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Gender Selected
+2020-07-14 15:04:54,265 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - DOB entered
+2020-07-14 15:04:56,768 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Selected Customer Roles
+2020-07-14 15:04:56,902 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Selected Vendor details
+2020-07-14 15:04:57,157 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Comments entered
+2020-07-14 15:04:58,185 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Customer Saved
+2020-07-14 15:04:58,231 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Failed to register a Customer
+2020-07-14 15:08:43,587 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Email Entered
+2020-07-14 15:08:43,703 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Password Entered
+2020-07-14 15:08:43,848 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - FirstName Entered
+2020-07-14 15:08:43,948 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Lastname Entered
+2020-07-14 15:08:44,036 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Gender Selected
+2020-07-14 15:08:44,154 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - DOB entered
+2020-07-14 15:08:46,623 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Selected Customer Roles
+2020-07-14 15:08:46,768 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Selected Vendor details
+2020-07-14 15:08:47,002 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Comments entered
+2020-07-14 15:08:48,148 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Customer Saved
+2020-07-14 15:08:48,204 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Failed to register a Customer
+2020-07-14 15:17:33,141 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Email Entered
+2020-07-14 15:17:33,267 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Password Entered
+2020-07-14 15:17:33,398 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - FirstName Entered
+2020-07-14 15:17:33,504 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Lastname Entered
+2020-07-14 15:17:33,586 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Gender Selected
+2020-07-14 15:17:33,705 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - DOB entered
+2020-07-14 15:17:36,162 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Selected Customer Roles
+2020-07-14 15:17:36,296 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Selected Vendor details
+2020-07-14 15:17:36,531 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Comments entered
+2020-07-14 15:17:38,474 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Customer Saved
+2020-07-14 15:21:07,139 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Email Entered
+2020-07-14 15:21:07,284 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Password Entered
+2020-07-14 15:21:07,425 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - FirstName Entered
+2020-07-14 15:21:07,545 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Lastname Entered
+2020-07-14 15:21:07,627 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Gender Selected
+2020-07-14 15:21:07,741 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - DOB entered
+2020-07-14 15:21:10,189 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Selected Customer Roles
+2020-07-14 15:21:10,324 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Selected Vendor details
+2020-07-14 15:21:10,543 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Comments entered
+2020-07-14 15:21:11,476 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Customer Saved
+2020-07-14 15:21:11,536 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Failed to register a Customer
+2020-07-14 15:22:07,080 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Email Entered
+2020-07-14 15:22:07,202 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Password Entered
+2020-07-14 15:22:07,331 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - FirstName Entered
+2020-07-14 15:22:07,436 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Lastname Entered
+2020-07-14 15:22:07,512 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Gender Selected
+2020-07-14 15:22:07,640 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - DOB entered
+2020-07-14 15:22:10,156 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Selected Customer Roles
+2020-07-14 15:22:10,292 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Selected Vendor details
+2020-07-14 15:22:10,529 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Comments entered
+2020-07-14 15:22:11,580 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Customer Saved
+2020-07-14 15:22:11,642 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Failed to register a Customer
+2020-07-14 15:25:10,029 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Email Entered
+2020-07-14 15:25:10,153 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Password Entered
+2020-07-14 15:25:10,301 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - FirstName Entered
+2020-07-14 15:25:10,408 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Lastname Entered
+2020-07-14 15:25:10,481 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Gender Selected
+2020-07-14 15:25:10,608 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - DOB entered
+2020-07-14 15:25:13,108 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Selected Customer Roles
+2020-07-14 15:25:13,243 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Selected Vendor details
+2020-07-14 15:25:13,460 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Comments entered
+2020-07-14 15:25:17,744 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Customer Saved
+2020-07-14 15:25:17,782 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Failed to register a Customer
+2020-07-14 15:27:58,072 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Email Entered
+2020-07-14 15:27:58,206 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Password Entered
+2020-07-14 15:27:58,352 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - FirstName Entered
+2020-07-14 15:27:58,474 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Lastname Entered
+2020-07-14 15:27:58,571 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Gender Selected
+2020-07-14 15:27:58,689 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - DOB entered
+2020-07-14 15:28:01,178 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Selected Customer Roles
+2020-07-14 15:28:01,312 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Selected Vendor details
+2020-07-14 15:28:01,546 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Comments entered
+2020-07-14 15:28:03,477 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Customer Saved
+2020-07-14 15:28:03,513 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Customer has been addded Successfully
+2020-07-14 15:56:58,128 - com.sampleframework.testCases.TC_SearchCustomerByEmail_005 -INFO - Invalid Email
+2020-07-14 16:00:55,549 - com.sampleframework.testCases.TC_SearchCustomerByEmail_005 -INFO - Invalid Email
+2020-07-14 16:02:16,540 - com.sampleframework.testCases.TC_SearchCustomerByEmail_005 -INFO - Invalid Email
+2020-07-14 16:04:20,900 - com.sampleframework.testCases.TC_SearchCustomerByEmail_005 -INFO - Invalid Email
+2020-07-14 16:06:22,968 - com.sampleframework.testCases.TC_SearchCustomerByEmail_005 -INFO - Email Id exists
+2020-07-14 16:07:45,465 - com.sampleframework.testCases.TC_LoginTest_001 -INFO - URL Opened
+2020-07-14 16:07:47,844 - com.sampleframework.testCases.TC_LoginTest_001 -INFO - Username Entered
+2020-07-14 16:07:47,963 - com.sampleframework.testCases.TC_LoginTest_001 -INFO - Password Entered
+2020-07-14 16:07:50,072 - com.sampleframework.testCases.TC_LoginTest_001 -INFO - Logged In
+2020-07-14 16:07:55,669 - com.sampleframework.testCases.TC_LoginTest_001 -INFO - Logged Out
+2020-07-14 16:08:06,896 - com.sampleframework.testCases.TC_NT_LoginTest_002 -INFO - URL Opened
+2020-07-14 16:08:09,221 - com.sampleframework.testCases.TC_NT_LoginTest_002 -INFO - Username Entered
+2020-07-14 16:08:09,355 - com.sampleframework.testCases.TC_NT_LoginTest_002 -INFO - Password Entered
+2020-07-14 16:08:11,651 - com.sampleframework.testCases.TC_NT_LoginTest_002 -INFO - Logged In
+2020-07-14 16:08:30,605 - com.sampleframework.testCases.TC_LoginTestDDT_003 -INFO - URL Opened
+2020-07-14 16:08:32,928 - com.sampleframework.testCases.TC_LoginTestDDT_003 -INFO - Username Entered
+2020-07-14 16:08:33,059 - com.sampleframework.testCases.TC_LoginTestDDT_003 -INFO - Password Entered
+2020-07-14 16:08:35,494 - com.sampleframework.testCases.TC_LoginTestDDT_003 -INFO - Logged In
+2020-07-14 16:08:41,079 - com.sampleframework.testCases.TC_LoginTestDDT_003 -INFO - Logged Out
+2020-07-14 16:08:41,473 - com.sampleframework.testCases.TC_LoginTestDDT_003 -INFO - URL Opened
+2020-07-14 16:08:41,646 - com.sampleframework.testCases.TC_LoginTestDDT_003 -INFO - Username Entered
+2020-07-14 16:08:41,766 - com.sampleframework.testCases.TC_LoginTestDDT_003 -INFO - Password Entered
+2020-07-14 16:08:42,011 - com.sampleframework.testCases.TC_LoginTestDDT_003 -INFO - Logged In
+2020-07-14 16:08:47,768 - com.sampleframework.testCases.TC_LoginTestDDT_003 -INFO - URL Opened
+2020-07-14 16:08:47,971 - com.sampleframework.testCases.TC_LoginTestDDT_003 -INFO - Username Entered
+2020-07-14 16:08:48,097 - com.sampleframework.testCases.TC_LoginTestDDT_003 -INFO - Password Entered
+2020-07-14 16:08:48,326 - com.sampleframework.testCases.TC_LoginTestDDT_003 -INFO - Logged In
+2020-07-14 16:08:54,018 - com.sampleframework.testCases.TC_LoginTestDDT_003 -INFO - URL Opened
+2020-07-14 16:08:54,190 - com.sampleframework.testCases.TC_LoginTestDDT_003 -INFO - Username Entered
+2020-07-14 16:08:54,302 - com.sampleframework.testCases.TC_LoginTestDDT_003 -INFO - Password Entered
+2020-07-14 16:08:54,539 - com.sampleframework.testCases.TC_LoginTestDDT_003 -INFO - Logged In
+2020-07-14 16:09:13,922 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Email Entered
+2020-07-14 16:09:14,055 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Password Entered
+2020-07-14 16:09:14,225 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - FirstName Entered
+2020-07-14 16:09:14,379 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Lastname Entered
+2020-07-14 16:09:14,473 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Gender Selected
+2020-07-14 16:09:14,600 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - DOB entered
+2020-07-14 16:09:17,132 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Selected Customer Roles
+2020-07-14 16:09:17,259 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Selected Vendor details
+2020-07-14 16:09:17,500 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Comments entered
+2020-07-14 16:09:18,368 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Customer Saved
+2020-07-14 16:09:18,403 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Customer has been addded Successfully
+2020-07-14 16:09:34,603 - com.sampleframework.testCases.TC_SearchCustomerByEmail_005 -INFO - Email Id exists
+2020-07-14 16:48:00,436 - com.sampleframework.testCases.TC_LoginTest_001 -INFO - URL Opened
+2020-07-14 16:48:02,835 - com.sampleframework.testCases.TC_LoginTest_001 -INFO - Username Entered
+2020-07-14 16:48:02,980 - com.sampleframework.testCases.TC_LoginTest_001 -INFO - Password Entered
+2020-07-14 16:48:05,183 - com.sampleframework.testCases.TC_LoginTest_001 -INFO - Logged In
+2020-07-14 16:48:10,867 - com.sampleframework.testCases.TC_LoginTest_001 -INFO - Logged Out
+2020-07-14 16:48:21,762 - com.sampleframework.testCases.TC_NT_LoginTest_002 -INFO - URL Opened
+2020-07-14 16:48:24,079 - com.sampleframework.testCases.TC_NT_LoginTest_002 -INFO - Username Entered
+2020-07-14 16:48:24,222 - com.sampleframework.testCases.TC_NT_LoginTest_002 -INFO - Password Entered
+2020-07-14 16:48:26,398 - com.sampleframework.testCases.TC_NT_LoginTest_002 -INFO - Logged In
+2020-07-14 16:56:57,880 - com.sampleframework.testCases.TC_LoginTest_001 -INFO - Logged Out
+2020-07-14 16:57:20,383 - com.sampleframework.testCases.TC_LoginTestDDT_003 -INFO - Logged Out
+2020-07-14 16:57:34,246 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Email Entered
+2020-07-14 16:57:34,376 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Password Entered
+2020-07-14 16:57:34,509 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - FirstName Entered
+2020-07-14 16:57:34,627 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Lastname Entered
+2020-07-14 16:57:34,711 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Gender Selected
+2020-07-14 16:57:34,844 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - DOB entered
+2020-07-14 16:57:37,510 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Selected Customer Roles
+2020-07-14 16:57:37,662 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Selected Vendor details
+2020-07-14 16:57:37,879 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Comments entered
+2020-07-14 16:57:39,302 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Customer Saved
+2020-07-14 16:57:39,336 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Customer has been addded Successfully
+2020-07-14 16:57:51,328 - com.sampleframework.testCases.TC_SearchCustomerByEmail_005 -INFO - Email Id exists
+2020-07-14 17:59:46,105 - com.sampleframework.testCases.TC_LoginTest_001 -INFO - Logged Out
+2020-07-14 18:00:09,138 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Email Entered
+2020-07-14 18:00:09,258 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Password Entered
+2020-07-14 18:00:09,405 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - FirstName Entered
+2020-07-14 18:00:09,509 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Lastname Entered
+2020-07-14 18:00:09,593 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Gender Selected
+2020-07-14 18:00:09,714 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - DOB entered
+2020-07-14 18:00:12,238 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Selected Customer Roles
+2020-07-14 18:00:12,373 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Selected Vendor details
+2020-07-14 18:00:12,608 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Comments entered
+2020-07-14 18:00:14,163 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Customer Saved
+2020-07-14 18:00:14,208 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Customer has been addded Successfully
+2020-07-14 18:00:25,255 - com.sampleframework.testCases.TC_SearchCustomerByEmail_005 -INFO - Email Id exists
+2020-07-14 18:12:08,693 - com.sampleframework.testCases.TC_LoginTestDDT_003 -INFO - URL Opened
+2020-07-14 18:12:11,078 - com.sampleframework.testCases.TC_LoginTestDDT_003 -INFO - Username Entered
+2020-07-14 18:12:11,221 - com.sampleframework.testCases.TC_LoginTestDDT_003 -INFO - Password Entered
+2020-07-14 18:12:13,297 - com.sampleframework.testCases.TC_LoginTestDDT_003 -INFO - Logged In
+2020-07-14 18:12:13,888 - com.sampleframework.testCases.TC_LoginTestDDT_003 -INFO - Logged Out
+2020-07-14 18:12:14,278 - com.sampleframework.testCases.TC_LoginTestDDT_003 -INFO - URL Opened
+2020-07-14 18:12:14,472 - com.sampleframework.testCases.TC_LoginTestDDT_003 -INFO - Username Entered
+2020-07-14 18:12:14,586 - com.sampleframework.testCases.TC_LoginTestDDT_003 -INFO - Password Entered
+2020-07-14 18:12:14,847 - com.sampleframework.testCases.TC_LoginTestDDT_003 -INFO - Logged In
+2020-07-14 18:12:15,564 - com.sampleframework.testCases.TC_LoginTestDDT_003 -INFO - URL Opened
+2020-07-14 18:12:15,735 - com.sampleframework.testCases.TC_LoginTestDDT_003 -INFO - Username Entered
+2020-07-14 18:12:15,857 - com.sampleframework.testCases.TC_LoginTestDDT_003 -INFO - Password Entered
+2020-07-14 18:12:16,113 - com.sampleframework.testCases.TC_LoginTestDDT_003 -INFO - Logged In
+2020-07-14 18:12:16,831 - com.sampleframework.testCases.TC_LoginTestDDT_003 -INFO - URL Opened
+2020-07-14 18:12:17,016 - com.sampleframework.testCases.TC_LoginTestDDT_003 -INFO - Username Entered
+2020-07-14 18:12:17,149 - com.sampleframework.testCases.TC_LoginTestDDT_003 -INFO - Password Entered
+2020-07-14 18:12:17,390 - com.sampleframework.testCases.TC_LoginTestDDT_003 -INFO - Logged In
+2020-07-14 18:16:20,871 - com.sampleframework.testCases.TC_LoginTestDDT_003 -INFO - URL Opened
+2020-07-14 18:16:23,234 - com.sampleframework.testCases.TC_LoginTestDDT_003 -INFO - Username Entered
+2020-07-14 18:16:23,370 - com.sampleframework.testCases.TC_LoginTestDDT_003 -INFO - Password Entered
+2020-07-14 18:16:25,553 - com.sampleframework.testCases.TC_LoginTestDDT_003 -INFO - Logged In
+2020-07-14 18:16:26,182 - com.sampleframework.testCases.TC_LoginTestDDT_003 -INFO - Logged Out
+2020-07-14 18:16:26,621 - com.sampleframework.testCases.TC_LoginTestDDT_003 -INFO - URL Opened
+2020-07-14 18:16:26,800 - com.sampleframework.testCases.TC_LoginTestDDT_003 -INFO - Username Entered
+2020-07-14 18:16:26,922 - com.sampleframework.testCases.TC_LoginTestDDT_003 -INFO - Password Entered
+2020-07-14 18:16:27,200 - com.sampleframework.testCases.TC_LoginTestDDT_003 -INFO - Logged In
+2020-07-14 18:16:28,646 - com.sampleframework.testCases.TC_LoginTestDDT_003 -INFO - URL Opened
+2020-07-14 18:16:28,832 - com.sampleframework.testCases.TC_LoginTestDDT_003 -INFO - Username Entered
+2020-07-14 18:16:28,946 - com.sampleframework.testCases.TC_LoginTestDDT_003 -INFO - Password Entered
+2020-07-14 18:16:29,214 - com.sampleframework.testCases.TC_LoginTestDDT_003 -INFO - Logged In
+2020-07-14 18:16:29,981 - com.sampleframework.testCases.TC_LoginTestDDT_003 -INFO - URL Opened
+2020-07-14 18:16:30,148 - com.sampleframework.testCases.TC_LoginTestDDT_003 -INFO - Username Entered
+2020-07-14 18:16:30,256 - com.sampleframework.testCases.TC_LoginTestDDT_003 -INFO - Password Entered
+2020-07-14 18:16:30,496 - com.sampleframework.testCases.TC_LoginTestDDT_003 -INFO - Logged In
+2020-07-16 17:13:46,075 - com.sampleframework.testCases.TC_LoginTest_001 -INFO - Logged Out
+2020-07-16 17:14:10,714 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Email Entered
+2020-07-16 17:14:10,835 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Password Entered
+2020-07-16 17:14:10,976 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - FirstName Entered
+2020-07-16 17:14:11,067 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Lastname Entered
+2020-07-16 17:14:11,171 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Gender Selected
+2020-07-16 17:14:11,311 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - DOB entered
+2020-07-16 17:14:13,788 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Selected Customer Roles
+2020-07-16 17:14:14,245 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Selected Vendor details
+2020-07-16 17:14:14,491 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Comments entered
+2020-07-16 17:14:15,419 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Customer Saved
+2020-07-16 17:14:15,516 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Customer has been addded Successfully
+2020-07-16 17:14:27,476 - com.sampleframework.testCases.TC_SearchCustomerByEmail_005 -INFO - Email Id exists
+2020-07-16 17:42:34,900 - com.sampleframework.testCases.TC_LoginTest_001 -INFO - Logged Out
+2020-07-16 17:43:04,069 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Email Entered
+2020-07-16 17:43:04,199 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Password Entered
+2020-07-16 17:43:04,335 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - FirstName Entered
+2020-07-16 17:43:04,455 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Lastname Entered
+2020-07-16 17:43:04,538 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Gender Selected
+2020-07-16 17:43:04,716 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - DOB entered
+2020-07-16 17:43:07,270 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Selected Customer Roles
+2020-07-16 17:43:07,405 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Selected Vendor details
+2020-07-16 17:43:07,634 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Comments entered
+2020-07-16 17:43:08,577 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Customer Saved
+2020-07-16 17:43:08,611 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Customer has been addded Successfully
+2020-07-16 17:43:20,348 - com.sampleframework.testCases.TC_SearchCustomerByEmail_005 -INFO - Email Id exists
+2020-07-16 17:46:05,061 - com.sampleframework.testCases.TC_LoginTest_001 -INFO - Logged Out
+2020-07-16 17:46:33,820 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Email Entered
+2020-07-16 17:46:33,929 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Password Entered
+2020-07-16 17:46:34,077 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - FirstName Entered
+2020-07-16 17:46:34,172 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Lastname Entered
+2020-07-16 17:46:34,271 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Gender Selected
+2020-07-16 17:46:34,400 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - DOB entered
+2020-07-16 17:46:36,845 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Selected Customer Roles
+2020-07-16 17:46:36,983 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Selected Vendor details
+2020-07-16 17:46:37,815 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Comments entered
+2020-07-16 17:46:39,757 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Customer Saved
+2020-07-16 17:46:39,791 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Customer has been addded Successfully
+2020-07-16 17:46:52,824 - com.sampleframework.testCases.TC_SearchCustomerByEmail_005 -INFO - Email Id exists
+2020-07-16 18:13:04,576 - com.sampleframework.testCases.TC_LoginTest_001 -INFO - Logged Out
+2020-07-16 18:14:03,931 - com.sampleframework.testCases.TC_LoginTest_001 -INFO - Logged Out
+2020-07-16 18:14:35,965 - com.sampleframework.testCases.TC_SearchCustomerByEmail_005 -INFO - Email Id exists
+2020-07-16 18:15:44,312 - com.sampleframework.testCases.TC_LoginTest_001 -INFO - Logged Out
+2020-07-16 18:16:29,583 - com.sampleframework.testCases.TC_SearchCustomerByEmail_005 -INFO - Email Id exists
+2020-07-16 18:17:52,799 - com.sampleframework.testCases.TC_LoginTest_001 -INFO - Logged Out
+2020-07-16 18:18:04,530 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Email Entered
+2020-07-16 18:18:04,651 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Password Entered
+2020-07-16 18:18:04,789 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - FirstName Entered
+2020-07-16 18:18:04,883 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Lastname Entered
+2020-07-16 18:18:04,956 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Gender Selected
+2020-07-16 18:18:05,107 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - DOB entered
+2020-07-16 18:18:07,686 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Selected Customer Roles
+2020-07-16 18:18:07,836 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Selected Vendor details
+2020-07-16 18:18:08,084 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Comments entered
+2020-07-16 18:18:09,131 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Customer Saved
+2020-07-16 18:18:09,166 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Customer has been addded Successfully
+2020-07-16 18:18:25,596 - com.sampleframework.testCases.TC_SearchCustomerByEmail_005 -INFO - Email Id exists
+2020-07-16 18:20:11,061 - com.sampleframework.testCases.TC_LoginTest_001 -INFO - Logged Out
+2020-07-16 18:20:22,916 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Email Entered
+2020-07-16 18:20:23,050 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Password Entered
+2020-07-16 18:20:23,191 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - FirstName Entered
+2020-07-16 18:20:23,333 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Lastname Entered
+2020-07-16 18:20:23,439 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Gender Selected
+2020-07-16 18:20:23,583 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - DOB entered
+2020-07-16 18:20:26,085 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Selected Customer Roles
+2020-07-16 18:20:26,235 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Selected Vendor details
+2020-07-16 18:20:26,475 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Comments entered
+2020-07-16 18:20:27,354 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Customer Saved
+2020-07-16 18:20:27,392 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Customer has been addded Successfully
+2020-07-16 18:20:40,528 - com.sampleframework.testCases.TC_SearchCustomerByEmail_005 -INFO - Email Id exists
+2020-07-16 18:50:48,697 - com.sampleframework.testCases.TC_LoginTest_001 -INFO - Logged Out
+2020-07-16 18:51:02,842 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Email Entered
+2020-07-16 18:51:02,968 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Password Entered
+2020-07-16 18:51:03,093 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - FirstName Entered
+2020-07-16 18:51:03,189 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Lastname Entered
+2020-07-16 18:51:03,283 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Gender Selected
+2020-07-16 18:51:03,409 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - DOB entered
+2020-07-16 18:51:05,949 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Selected Customer Roles
+2020-07-16 18:51:06,085 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Selected Vendor details
+2020-07-16 18:51:06,388 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Comments entered
+2020-07-16 18:51:08,035 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Customer Saved
+2020-07-16 18:51:08,073 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Customer has been addded Successfully
+2020-07-16 18:51:18,842 - com.sampleframework.testCases.TC_SearchCustomerByEmail_005 -INFO - Email Id exists
+2020-07-16 19:08:04,683 - com.sampleframework.testCases.TC_LoginTest_001 -INFO - Logged Out
+2020-07-16 19:08:18,282 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Email Entered
+2020-07-16 19:08:18,392 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Password Entered
+2020-07-16 19:08:18,541 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - FirstName Entered
+2020-07-16 19:08:18,665 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Lastname Entered
+2020-07-16 19:08:18,745 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Gender Selected
+2020-07-16 19:08:18,864 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - DOB entered
+2020-07-16 19:08:21,328 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Selected Customer Roles
+2020-07-16 19:08:21,453 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Selected Vendor details
+2020-07-16 19:08:21,679 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Comments entered
+2020-07-16 19:08:22,547 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Customer Saved
+2020-07-16 19:08:22,596 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Customer has been addded Successfully
+2020-07-16 19:08:36,106 - com.sampleframework.testCases.TC_SearchCustomerByEmail_005 -INFO - Email Id exists
+2020-07-16 19:09:13,360 - com.sampleframework.testCases.TC_LoginTest_001 -INFO - Logged Out
+2020-07-16 19:09:26,154 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Email Entered
+2020-07-16 19:09:26,279 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Password Entered
+2020-07-16 19:09:26,417 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - FirstName Entered
+2020-07-16 19:09:26,529 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Lastname Entered
+2020-07-16 19:09:26,641 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Gender Selected
+2020-07-16 19:09:26,793 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - DOB entered
+2020-07-16 19:09:29,279 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Selected Customer Roles
+2020-07-16 19:09:29,408 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Selected Vendor details
+2020-07-16 19:09:29,632 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Comments entered
+2020-07-16 19:09:30,580 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Customer Saved
+2020-07-16 19:09:30,615 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Customer has been addded Successfully
+2020-07-16 19:09:43,737 - com.sampleframework.testCases.TC_SearchCustomerByEmail_005 -INFO - Email Id exists
+2020-07-17 10:29:46,571 - com.sampleframework.testCases.TC_LoginTest_001 -INFO - Logged Out
+2020-07-17 10:30:02,201 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Email Entered
+2020-07-17 10:30:02,315 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Password Entered
+2020-07-17 10:30:02,449 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - FirstName Entered
+2020-07-17 10:30:02,544 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Lastname Entered
+2020-07-17 10:30:02,631 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Gender Selected
+2020-07-17 10:30:02,768 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - DOB entered
+2020-07-17 10:30:05,276 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Selected Customer Roles
+2020-07-17 10:30:05,407 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Selected Vendor details
+2020-07-17 10:30:05,652 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Comments entered
+2020-07-17 10:30:06,980 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Customer Saved
+2020-07-17 10:30:07,021 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Customer has been addded Successfully
+2020-07-17 10:30:23,085 - com.sampleframework.testCases.TC_SearchCustomerByEmail_005 -INFO - Email Id exists
+2020-07-17 11:44:33,069 - com.sampleframework.testCases.TC_LoginTest_001 -INFO - Logged Out
+2020-07-17 11:46:31,499 - com.sampleframework.testCases.TC_SearchCustomerByEmail_005 -INFO - Email Id exists
+2020-07-17 11:56:44,552 - com.sampleframework.testCases.TC_LoginTest_001 -INFO - Logged Out
+2020-07-17 11:56:57,581 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Email Entered
+2020-07-17 11:56:57,718 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Password Entered
+2020-07-17 11:56:57,874 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - FirstName Entered
+2020-07-17 11:56:57,971 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Lastname Entered
+2020-07-17 11:56:58,060 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Gender Selected
+2020-07-17 11:56:58,191 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - DOB entered
+2020-07-17 11:57:01,284 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Selected Customer Roles
+2020-07-17 11:57:01,500 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Selected Vendor details
+2020-07-17 11:57:01,743 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Comments entered
+2020-07-17 11:57:02,669 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Customer Saved
+2020-07-17 11:57:02,705 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Customer has been addded Successfully
+2020-07-17 11:59:51,669 - com.sampleframework.testCases.TC_LoginTest_001 -INFO - Logged Out
+2020-07-17 12:00:12,079 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Email Entered
+2020-07-17 12:00:12,222 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Password Entered
+2020-07-17 12:00:12,389 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - FirstName Entered
+2020-07-17 12:00:12,503 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Lastname Entered
+2020-07-17 12:00:12,593 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Gender Selected
+2020-07-17 12:00:12,739 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - DOB entered
+2020-07-17 12:00:15,264 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Selected Customer Roles
+2020-07-17 12:00:15,410 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Selected Vendor details
+2020-07-17 12:00:15,673 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Comments entered
+2020-07-17 12:00:16,644 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Customer Saved
+2020-07-17 12:00:16,685 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Customer has been addded Successfully
+2020-07-17 12:00:31,459 - com.sampleframework.testCases.TC_SearchCustomerByEmail_005 -INFO - Email Id exists
+2020-07-17 12:03:49,318 - com.sampleframework.testCases.TC_LoginTest_001 -INFO - Logged Out
+2020-07-17 12:08:07,241 - com.sampleframework.testCases.TC_LoginTest_001 -INFO - Logged Out
+2020-07-17 12:10:49,838 - com.sampleframework.testCases.TC_SearchCustomerByEmail_005 -INFO - Email Id exists
+2020-07-17 12:21:20,947 - com.sampleframework.testCases.TC_LoginTest_001 -INFO - Logged Out
+2020-07-17 12:21:35,961 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Email Entered
+2020-07-17 12:21:36,076 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Password Entered
+2020-07-17 12:21:36,227 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - FirstName Entered
+2020-07-17 12:21:36,396 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Lastname Entered
+2020-07-17 12:21:36,482 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Gender Selected
+2020-07-17 12:21:36,609 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - DOB entered
+2020-07-17 12:21:39,040 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Selected Customer Roles
+2020-07-17 12:21:39,209 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Selected Vendor details
+2020-07-17 12:21:39,483 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Comments entered
+2020-07-17 12:21:40,648 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Customer Saved
+2020-07-17 12:21:40,748 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Customer has been addded Successfully
+2020-07-17 12:21:55,250 - com.sampleframework.testCases.TC_SearchCustomerByEmail_005 -INFO - Email Id exists
+2020-07-17 13:55:45,114 - com.sampleframework.testCases.TC_LoginTest_001 -INFO - Logged Out
+2020-07-17 13:55:58,349 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Email Entered
+2020-07-17 13:55:58,451 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Password Entered
+2020-07-17 13:55:58,561 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - FirstName Entered
+2020-07-17 13:55:58,665 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Lastname Entered
+2020-07-17 13:55:58,737 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Gender Selected
+2020-07-17 13:55:58,865 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - DOB entered
+2020-07-17 13:56:01,297 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Selected Customer Roles
+2020-07-17 13:56:01,584 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Selected Vendor details
+2020-07-17 13:56:01,815 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Comments entered
+2020-07-17 13:56:04,176 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Customer Saved
+2020-07-17 13:56:04,219 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Customer has been addded Successfully
+2020-07-17 13:58:47,318 - com.sampleframework.testCases.TC_LoginTest_001 -INFO - Logged Out
+2020-07-17 13:59:05,959 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Email Entered
+2020-07-17 13:59:06,065 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Password Entered
+2020-07-17 13:59:06,208 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - FirstName Entered
+2020-07-17 13:59:06,311 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Lastname Entered
+2020-07-17 13:59:06,375 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Gender Selected
+2020-07-17 13:59:06,489 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - DOB entered
+2020-07-17 13:59:08,900 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Selected Customer Roles
+2020-07-17 13:59:09,013 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Selected Vendor details
+2020-07-17 13:59:09,216 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Comments entered
+2020-07-17 13:59:10,137 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Customer Saved
+2020-07-17 13:59:10,166 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Customer has been addded Successfully
+2020-07-17 14:00:44,801 - com.sampleframework.testCases.TC_LoginTest_001 -INFO - Logged Out
+2020-07-17 14:01:03,342 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Email Entered
+2020-07-17 14:01:03,470 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Password Entered
+2020-07-17 14:01:03,760 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - FirstName Entered
+2020-07-17 14:01:03,932 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Lastname Entered
+2020-07-17 14:01:04,033 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Gender Selected
+2020-07-17 14:01:04,193 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - DOB entered
+2020-07-17 14:01:06,762 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Selected Customer Roles
+2020-07-17 14:01:06,915 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Selected Vendor details
+2020-07-17 14:01:07,197 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Comments entered
+2020-07-17 14:01:09,179 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Customer Saved
+2020-07-17 14:01:09,215 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Customer has been addded Successfully
+2020-07-17 14:03:54,922 - com.sampleframework.testCases.TC_SearchCustomerByEmail_005 -INFO - Email Id exists
+2020-07-17 14:05:10,849 - com.sampleframework.testCases.TC_LoginTest_001 -INFO - Logged Out
+2020-07-17 14:05:24,256 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Email Entered
+2020-07-17 14:05:24,366 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Password Entered
+2020-07-17 14:05:24,475 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - FirstName Entered
+2020-07-17 14:05:24,565 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Lastname Entered
+2020-07-17 14:05:24,643 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Gender Selected
+2020-07-17 14:05:24,752 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - DOB entered
+2020-07-17 14:05:27,138 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Selected Customer Roles
+2020-07-17 14:05:27,250 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Selected Vendor details
+2020-07-17 14:05:27,498 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Comments entered
+2020-07-17 14:05:29,521 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Customer Saved
+2020-07-17 14:05:29,608 - com.sampleframework.testCases.TC_AddCustomer_004 -INFO - Customer has been addded Successfully
+2020-07-17 14:05:40,936 - com.sampleframework.testCases.TC_SearchCustomerByEmail_005 -INFO - Email Id exists

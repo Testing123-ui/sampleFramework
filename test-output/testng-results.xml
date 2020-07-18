@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="sampleFramework" duration-ms="16678" started-at="2020-07-17T14:03:38 PDT" finished-at="2020-07-17T14:03:55 PDT">
+    <groups>
+    </groups>
+    <test name="ChromeTest" duration-ms="16678" started-at="2020-07-17T14:03:38 PDT" finished-at="2020-07-17T14:03:55 PDT">
+      <class name="com.sampleframework.testCases.TC_SearchCustomerByEmail_005">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.sampleframework.testCases.TC_SearchCustomerByEmail_005@3b088d51]" name="setUp" is-config="true" duration-ms="4137" started-at="2020-07-17T14:03:38 PDT" finished-at="2020-07-17T14:03:43 PDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="appLogin()[pri:1, instance:com.sampleframework.testCases.TC_SearchCustomerByEmail_005@3b088d51]" name="appLogin" duration-ms="10316" started-at="2020-07-17T14:03:43 PDT" finished-at="2020-07-17T14:03:53 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- appLogin -->
+        <test-method status="PASS" signature="searchEmail()[pri:2, instance:com.sampleframework.testCases.TC_SearchCustomerByEmail_005@3b088d51]" name="searchEmail" duration-ms="1544" started-at="2020-07-17T14:03:53 PDT" finished-at="2020-07-17T14:03:54 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchEmail -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.sampleframework.testCases.TC_SearchCustomerByEmail_005@3b088d51]" name="closeBrowser" is-config="true" duration-ms="454" started-at="2020-07-17T14:03:54 PDT" finished-at="2020-07-17T14:03:55 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.sampleframework.testCases.TC_SearchCustomerByEmail_005 -->
+    </test> <!-- ChromeTest -->
+  </suite> <!-- sampleFramework -->
+</testng-results>

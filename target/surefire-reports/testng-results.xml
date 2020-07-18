@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="sampleFramework" duration-ms="48385" started-at="2020-07-17T14:04:53 PDT" finished-at="2020-07-17T14:05:41 PDT">
+    <groups>
+    </groups>
+    <test name="ChromeTest" duration-ms="48385" started-at="2020-07-17T14:04:53 PDT" finished-at="2020-07-17T14:05:41 PDT">
+      <class name="com.sampleframework.testCases.TC_SearchCustomerByEmail_005">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.sampleframework.testCases.TC_SearchCustomerByEmail_005@2038ae61]" name="setUp" is-config="true" duration-ms="3472" started-at="2020-07-17T14:05:29 PDT" finished-at="2020-07-17T14:05:33 PDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="appLogin()[pri:1, instance:com.sampleframework.testCases.TC_SearchCustomerByEmail_005@2038ae61]" name="appLogin" duration-ms="6184" started-at="2020-07-17T14:05:33 PDT" finished-at="2020-07-17T14:05:39 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- appLogin -->
+        <test-method status="PASS" signature="searchEmail()[pri:2, instance:com.sampleframework.testCases.TC_SearchCustomerByEmail_005@2038ae61]" name="searchEmail" duration-ms="1499" started-at="2020-07-17T14:05:39 PDT" finished-at="2020-07-17T14:05:40 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchEmail -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.sampleframework.testCases.TC_SearchCustomerByEmail_005@2038ae61]" name="closeBrowser" is-config="true" duration-ms="568" started-at="2020-07-17T14:05:40 PDT" finished-at="2020-07-17T14:05:41 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.sampleframework.testCases.TC_SearchCustomerByEmail_005 -->
+      <class name="com.sampleframework.testCases.TC_AddCustomer_004">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.sampleframework.testCases.TC_AddCustomer_004@60c6f5b]" name="setUp" is-config="true" duration-ms="3478" started-at="2020-07-17T14:05:10 PDT" finished-at="2020-07-17T14:05:14 PDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="appLogin()[pri:1, instance:com.sampleframework.testCases.TC_AddCustomer_004@60c6f5b]" name="appLogin" duration-ms="6761" started-at="2020-07-17T14:05:14 PDT" finished-at="2020-07-17T14:05:21 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- appLogin -->
+        <test-method status="PASS" signature="addCustomer()[pri:2, instance:com.sampleframework.testCases.TC_AddCustomer_004@60c6f5b]" name="addCustomer" duration-ms="8427" started-at="2020-07-17T14:05:21 PDT" finished-at="2020-07-17T14:05:29 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addCustomer -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.sampleframework.testCases.TC_AddCustomer_004@60c6f5b]" name="closeBrowser" is-config="true" duration-ms="170" started-at="2020-07-17T14:05:29 PDT" finished-at="2020-07-17T14:05:29 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.sampleframework.testCases.TC_AddCustomer_004 -->
+      <class name="com.sampleframework.testCases.TC_LoginTest_001">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.sampleframework.testCases.TC_LoginTest_001@1e127982]" name="setUp" is-config="true" duration-ms="4236" started-at="2020-07-17T14:04:53 PDT" finished-at="2020-07-17T14:04:57 PDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="appLogin()[pri:1, instance:com.sampleframework.testCases.TC_LoginTest_001@1e127982]" name="appLogin" duration-ms="12375" started-at="2020-07-17T14:04:57 PDT" finished-at="2020-07-17T14:05:09 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- appLogin -->
+        <test-method status="PASS" signature="login()[pri:2, instance:com.sampleframework.testCases.TC_LoginTest_001@1e127982]" name="login" duration-ms="917" started-at="2020-07-17T14:05:09 PDT" finished-at="2020-07-17T14:05:10 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.sampleframework.testCases.TC_LoginTest_001@1e127982]" name="closeBrowser" is-config="true" duration-ms="84" started-at="2020-07-17T14:05:10 PDT" finished-at="2020-07-17T14:05:10 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.sampleframework.testCases.TC_LoginTest_001 -->
+    </test> <!-- ChromeTest -->
+  </suite> <!-- sampleFramework -->
+</testng-results>
